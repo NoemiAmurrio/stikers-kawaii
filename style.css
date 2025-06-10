@@ -1,4 +1,8 @@
 body{
     color: rgb(44, 26, 3);
     background-color: aquamarine;
+    border: 2px solid white;
+}
+h1{
+    font-size: 60px;
 }
